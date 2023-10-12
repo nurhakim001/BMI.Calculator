@@ -7,7 +7,7 @@
 
 body {
     min-height: 100vh;
-    background: url(assets/images/bg001.jpg);
+    background: #000;
     background-size: cover;
 }
 
